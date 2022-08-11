@@ -77,9 +77,9 @@ Utilizar la librería Pandas para procesar todos los datos que sean necesarios.
 Criterios a evaluar ☑
 --
 A la hora de evaluar tu challenge, tendremos en cuenta una serie de criterios que nos permitirán analizar con mayor detalle el producto alcanzado. Estos son:
-● Implementación de buenas prácticas de codificación y estilo de código (según PEP8).
-● Comentarios oportunos y docstrings descriptivos.
-● Manejo de excepciones preciso, no azaroso.
-● La estructura del proyecto debe ser limpia y ordenada.
-● El código deberá estar modularizado en componentes reutilizables e
+* Implementación de buenas prácticas de codificación y estilo de código (según PEP8).
+* Comentarios oportunos y docstrings descriptivos.
+* Manejo de excepciones preciso, no azaroso.
+* La estructura del proyecto debe ser limpia y ordenada.
+* El código deberá estar modularizado en componentes reutilizables e
 independientes.
