@@ -45,7 +45,7 @@ Luego de normalizar la información y generar las demás tablas, las mismas se d
 * Todos los registros existentes deben ser reemplazados por la nueva información.
 * Dentro de cada tabla debe indicarse en una columna adicional la fecha de carga.
 * Los registros para los cuales la fuente no brinda información deben cargarse como nulos.
-####Requerimientos técnicos 🔧
+#### Requerimientos técnicos 🔧
 Tu aplicación deberá cumplir con una serie de requerimientos técnicos que giran en torno a 7 ejes centrales. Veamos cada uno de ellos en detalle.
 Ejecución
 La descarga, procesamiento y actualización de la información en la base de datos se debe poder ejecutar desde un archivo .py
