@@ -9,7 +9,7 @@ Tu proyecto deberá cumplir con una serie de requerimientos funcionales que gira
 Veamos cada uno de ellos en detalle.
 Archivos fuente
 ---
-	Los archivos fuentes serán utilizados en tu proyecto para obtener de ellos todo lo necesario para popular la base de datos. El proyecto deberá:
+Los archivos fuentes serán utilizados en tu proyecto para obtener de ellos todo lo necesario para popular la base de datos. El proyecto deberá:
 - Obtener los 3 archivos de fuente utilizando la librería requests y almacenarse en forma local (Ten en cuenta que las urls pueden cambiar en un futuro):
 	1.  Datos Argentina - Museos
 	2. Datos Argentina - Salas de Cine
