@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Challenge Data Analytics con Python 🚀
 ## Objetivo 👈
 Para resolver este challenge, deberás crear un proyecto que consuma datos desde 3 fuentes distintas para popular una base de datos SQL con información cultural sobre bibliotecas, museos y salas de cines argentinos.
@@ -75,6 +74,3 @@ A la hora de evaluar tu challenge, tendremos en cuenta una serie de criterios qu
 * La estructura del proyecto debe ser limpia y ordenada.
 * El código deberá estar modularizado en componentes reutilizables e
 independientes.
-=======
-Challenge Data Analytics con Python 🚀
->>>>>>> 34578daa9090be6f1ca507ab858575178ba20bfd
